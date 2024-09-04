@@ -1,0 +1,24 @@
+* {
+  font-family: Garamond, Serif;
+  line-height: 1.8;
+  background-color: #a2d2ff;
+  color: #112a46;
+  font-size: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+h1:first-of-type {
+  font-size: 30px;
+  text-align: center;
+}
+
+.ingredients {
+  background-color: #bde0fe;
+}
