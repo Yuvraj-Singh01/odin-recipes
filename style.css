@@ -6,6 +6,7 @@
 	accent-color: #dfa92f;
     font-size: 20px;
     box-sizing: border-box;
+    margin: 0;
 }
 
 .title {
@@ -39,7 +40,18 @@ h1 {
 	background-color: #ae6493;
 }
 
+div {
+    padding: 25px;
+    margin: 0 50px;
+}
 
+img {
+    margin: 60px;
+}
+
+#top {
+    margin-top: 50px;
+}
 
 /* 
 --text: #f8d4ed;
